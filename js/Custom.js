@@ -185,7 +185,7 @@ $(document).ready(function() {
         if (bShowLetter == false)
         {
             $('#reindeer').animate({
-                right: -300
+                right: -250
             }, 1000, function() {
                 
                 $("#letter").show("drop", {direction: "down"}, "fast");
@@ -219,7 +219,7 @@ $(document).ready(function() {
         else
         {
             $('#reindeer').animate({
-                right: -300
+                right: -250
             }, 1000, function() {
                 
                 $("#letter").hide("drop", {direction: "down"}, "slow");
