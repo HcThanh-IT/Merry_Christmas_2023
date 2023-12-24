@@ -199,9 +199,9 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc Dung (biệt danh Diệp xinh đẹp cute :) ) có một mùa giáng sinh an lành và ấm áp bên người thân và bạn bè :) Nghe nhạc zui zẻ nha!!!",
+                        "Chúc Kiều Diễm có một mùa giáng sinh an lành ấm áp bên người thân và bạn bè nè. Nghe nhạc zui zẻ nha!!! 🎄🎄🎄",
                         ],
-                        typeSpeed: 250,
+                        typeSpeed: 50,
                         startDelay: 500,
                         backSpeed: 50,
                         backDelay: 500,
