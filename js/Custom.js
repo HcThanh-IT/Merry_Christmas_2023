@@ -19,7 +19,7 @@ function loadingVisible() {
 }
 
 /* Scroll Title Begin */
-var scrl = "Giáng sinh vui vẻ! ";
+var scrl = "Giáng sinh an lành 🎄🎄🎄 ";
 function scrlsts() {
     scrl = scrl.substring(1, scrl.length) + scrl.substring(0, 1);
     document.title = scrl;
