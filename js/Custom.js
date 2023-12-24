@@ -198,7 +198,7 @@ $(document).ready(function() {
                     
                     $(".message").typed({
                         strings: [
-                        "<<< Merry Christmas >>>",
+                        "<<< Merry Christmas 24/12/2023 >>>",
                         "Chúc Kiều Diễm có một mùa giáng sinh an lành ấm áp bên người thân và bạn bè nè. Nghe nhạc zui zẻ nha!!! 🎄🎄🎄",
                         ],
                         typeSpeed: 50,
